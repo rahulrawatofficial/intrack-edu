@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-watch-v20/abc_dialog_material_background.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/drawable-watch-v20/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_disabled.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/res/drawable-watch-v20/common_google_signin_btn_text_dark_normal.xml"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/fast_out_slow_in.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/fast_out_slow_in.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/btn_radio_to_on_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/btn_checkbox_unchecked_mtrl_animation_interpolator_1.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/btn_radio_to_off_mtrl_animation_interpolator_0.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/interpolator/btn_checkbox_checked_mtrl_animation_interpolator_1.xml"
+    }
+]

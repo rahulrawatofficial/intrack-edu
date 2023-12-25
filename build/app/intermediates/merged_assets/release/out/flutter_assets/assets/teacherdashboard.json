@@ -1,0 +1,36 @@
+[
+    {
+        "image": "",
+        "text": "Upload HomeWork",
+        "path": "HomeworkPage()"
+    },
+    {
+        "image": "",
+        "text": "Upload Attendance",
+        "path": "Attendance()"
+    },
+    {
+        "image": "",
+        "text": "Upload Notification"
+    },
+    {
+        "image": "",
+        "text": "Time Table"
+    },
+    {
+        "image": "",
+        "text": "Upload Result"
+    },
+    {
+        "image": "",
+        "text": "Events"
+    },
+    {
+        "image": "",
+        "text": "News"
+    },
+    {
+        "image": "",
+        "text": "Reminder"
+    }
+]

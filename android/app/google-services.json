@@ -1,0 +1,119 @@
+{
+  "project_info": {
+    "project_number": "152061662978",
+    "firebase_url": "https://school-management-1f273.firebaseio.com",
+    "project_id": "school-management-1f273",
+    "storage_bucket": "school-management-1f273.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152061662978:android:17b5653ea007a16c",
+        "android_client_info": {
+          "package_name": "com.example.lexin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZuTz0i_fOmgMF7pPZLzErzqfA5XyYhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152061662978-82pkk76or8acqq8523j6mkgnibtn5pr8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lexin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152061662978:android:a1d23bafa3208396d0541b",
+        "android_client_info": {
+          "package_name": "com.intrack.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZuTz0i_fOmgMF7pPZLzErzqfA5XyYhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152061662978-82pkk76or8acqq8523j6mkgnibtn5pr8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lexin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152061662978:android:97a467e4032db66bd0541b",
+        "android_client_info": {
+          "package_name": "com.intrack.intrack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDZuTz0i_fOmgMF7pPZLzErzqfA5XyYhQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "152061662978-82pkk76or8acqq8523j6mkgnibtn5pr8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.lexin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

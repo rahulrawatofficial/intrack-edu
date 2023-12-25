@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">152061662978-3qar1frlu6dr91fnbuddqhobr4vl7k6g.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://school-management-1f273.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">152061662978</string>
+    <string name="google_api_key" translatable="false">AIzaSyBDZuTz0i_fOmgMF7pPZLzErzqfA5XyYhQ</string>
+    <string name="google_app_id" translatable="false">1:152061662978:android:a1d23bafa3208396d0541b</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBDZuTz0i_fOmgMF7pPZLzErzqfA5XyYhQ</string>
+    <string name="google_storage_bucket" translatable="false">school-management-1f273.appspot.com</string>
+    <string name="project_id" translatable="false">school-management-1f273</string>
+</resources>

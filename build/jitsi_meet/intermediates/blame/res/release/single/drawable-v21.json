@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5bae5ccd976fa28e5292ad9bd0076532/core-1.1.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/drawable-v21/abc_list_divider_material.xml"
+    }
+]

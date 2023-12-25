@@ -1,0 +1,726 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+MERGED from [:image_gallery_saver] /Users/rahulrawat/intrack-edu/build/image_gallery_saver/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:2:1-18:12
+MERGED from [:file_picker] /Users/rahulrawat/intrack-edu/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-9:12
+MERGED from [:sqflite] /Users/rahulrawat/intrack-edu/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:package_info] /Users/rahulrawat/intrack-edu/build/package_info/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:2:1-10:12
+MERGED from [:connectivity_macos] /Users/rahulrawat/intrack-edu/build/connectivity_macos/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:2:1-24:12
+MERGED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:2:1-20:12
+MERGED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:2:1-14:12
+MERGED from [:webview_flutter] /Users/rahulrawat/intrack-edu/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:path_provider] /Users/rahulrawat/intrack-edu/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:flutter_local_notifications] /Users/rahulrawat/intrack-edu/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:permission_handler] /Users/rahulrawat/intrack-edu/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:shared_preferences] /Users/rahulrawat/intrack-edu/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:2:1-7:12
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:2:1-22:12
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:2:1-55:12
+MERGED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:2:1-23:12
+MERGED from [com.facebook.react:react-native-google-signin:3.0.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/4e7aac6ee4d6671e8345bc63beb4a0bf/react-native-google-signin-3.0.1-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-background-timer:2.1.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/05221fc26a6e95841b1fc1104884c79d/react-native-background-timer-2.1.1-jitsi-4429568/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook.react:react-native-community-async-storage:1.3.4-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5ce2204c5a4483bd9a9b53db1ba50b01/react-native-community-async-storage-1.3.4-jitsi-4429568/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/95110fecf17ce7d855e3b5f0110cc247/react-native-community_netinfo-4.1.5-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-default-preference:1.4.2-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6043f9876c38d4da870833bfc8b17850/react-native-default-preference-1.4.2-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-immersive:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ef2d6b148630401bdec012f174cb491d/react-native-immersive-2.0.0-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/833320509cf3701a9d368a5486fa1160/react-native-keep-awake-4.0.0-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-linear-gradient:2.5.6-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7a27a4e3088a7e24f8724a52946370ec/react-native-linear-gradient-2.5.6-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native-sound:0.11.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/154acacb599dd0a9aaa33f34cfe746d4/react-native-sound-0.11.0-jitsi-4429568/AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.react:react-native-svg:9.7.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0f863fb99e4ba988dfc6e34dcf6d2833/react-native-svg-9.7.1-jitsi-4429568/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.react:react-native-webrtc:1.75.3-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1080596499d15d8b0b1b1d7f02c2377f/jetified-react-native-webrtc-1.75.3-jitsi-4429568/AndroidManifest.xml:2:1-11:12
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f0ea33837f2ae1c9226834c79e2b1bd/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9ed93210c3c6853b3bbad51b6a4e4d87/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d513c711b8f07339c01a694bf542421d/play-services-stats-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/117202cca2851c308cf9cd335698b0e5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f5c48faad3e483f6f24a4c406204294b/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b7b2b1a56b1f952a20ebc6244fb3c316/webkit-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0e10eaa65b355a3f9424fcb782473839/media-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13337fa17c431a1e70ed023fa24d6873/firebase-iid-interop-17.0.0/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/82a501bf4208391551e89eb7b684cbbb/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ad654d3361cf2a626663093d506708e2/play-services-auth-base-17.0.0/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59ea94859b3672a0ed14e895fb9d9b8d/play-services-tasks-17.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3351998ed301451b918539713b0f356/firebase-measurement-connector-18.0.0/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/64bc6587475c39e9f77e60604098a06f/fragment-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a4f1e4b67670323cfce3bc89e1c95200/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d02dce3083d6bf72ef903d7431f75e71/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cd2d7c6f32706c2131aa7676365eae30/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2ec14717e4df824d6b0bb64f1326a8bc/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ba31575fcf88c048e0a81102713e906b/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/340c6dc1043ffb719f7fcc47d7120aae/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8ca62f3fb1f94fb8d07f5a681cc24c5f/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d6110e6e799c5ea810a14b5274a8beb8/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/03cfcdf6101a42f31168ab9c5d579d53/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c27f1465c614894e779d5a40c6c27d32/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cc81b06ac9353c07631cdaf87b0aacd3/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/56901fe9ca638e81b5bdf09f2fcf7c0d/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c308531dd02f783015ed0db3e7d4037f/core-1.2.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/af3f3261368354814788b49e7f1d6170/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1bee58ef02a4ec953d895ca46e69ac6e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c13620144ad409732cabfddd7bcc4c77/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/990d61a0b44f9658417b622025f345a1/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b8331a4d8389d3a260a5c8dac90a130f/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f8e66371d2295fa6d733df15085d151f/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3a04b0f2b9d53e36847a5996b468c4f4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c31964ec6163b506e615ba67cead438e/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fcfe26d4711c1e8a1902e77ea9b004c0/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3f160ec9d7421a4b0580bc6a409962f/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1804f3412df59e2039be634626885659/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0082c3e4f37b8fbf73c0b11077f83998/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3f8e86b89c79b2c21e038c24e5c4658f/jetified-timber-4.7.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d30d9e08bc47cb60404f4043cedf0e0c/jetified-duktape-android-1.3.0/AndroidManifest.xml:2:1-14:12
+MERGED from [com.facebook:hermes:0.2.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/bffa3ec107887102f581071b44a385a4/hermes-0.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8cab12cf7e4fce0626b957c46401f4bc/fresco-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f908ba454ea2eccba2cf14fba6e1eca9/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ab7a1b89cef52d824171e60c95f33e2c/drawee-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13a16c1954b9ef888f349a322c982d36/nativeimagefilters-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7c726dbadeac69044112c00a39fc05a7/imagepipeline-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/39306c6983ac50433389f68cffa872b1/nativeimagetranscoder-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d11bd74beb5b6980d6b8163ce7ae6d6b/imagepipeline-base-2.0.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/20a4f86c962bed8017b95df8d0a3dc2c/soloader-0.6.0/AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6f11d3284e3a24232db32d36fa7cfbd3/jetified-fbcore-2.0.0/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+	package
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:2:5-30
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:1-55:12
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:9:10-71
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:12:5-67
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:12:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:9:27-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:10:10-84
+MERGED from [:file_picker] /Users/rahulrawat/intrack-edu/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:file_picker] /Users/rahulrawat/intrack-edu/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:9:5-80
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:9:5-80
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:10:27-82
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:11:10-85
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:11:27-83
+application
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:12:5-54:19
+MERGED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:7:5-16:19
+MERGED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:7:5-16:19
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:11:5-22:19
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:11:5-22:19
+MERGED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:7:5-18:19
+MERGED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:7:5-12:19
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:10:5-20:19
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:31:5-53:19
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:31:5-53:19
+MERGED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:11:5-21:19
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/AndroidManifest.xml:11:5-20
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:28:5-45:19
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d513c711b8f07339c01a694bf542421d/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d513c711b8f07339c01a694bf542421d/play-services-stats-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13337fa17c431a1e70ed023fa24d6873/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13337fa17c431a1e70ed023fa24d6873/firebase-iid-interop-17.0.0/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59ea94859b3672a0ed14e895fb9d9b8d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59ea94859b3672a0ed14e895fb9d9b8d/play-services-tasks-17.0.0/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3351998ed301451b918539713b0f356/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3351998ed301451b918539713b0f356/firebase-measurement-connector-18.0.0/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c308531dd02f783015ed0db3e7d4037f/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c308531dd02f783015ed0db3e7d4037f/core-1.2.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/af3f3261368354814788b49e7f1d6170/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/af3f3261368354814788b49e7f1d6170/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3f8e86b89c79b2c21e038c24e5c4658f/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3f8e86b89c79b2c21e038c24e5c4658f/jetified-timber-4.7.1/AndroidManifest.xml:7:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d30d9e08bc47cb60404f4043cedf0e0c/jetified-duktape-android-1.3.0/AndroidManifest.xml:12:5-20
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d30d9e08bc47cb60404f4043cedf0e0c/jetified-duktape-android-1.3.0/AndroidManifest.xml:12:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/20a4f86c962bed8017b95df8d0a3dc2c/soloader-0.6.0/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/20a4f86c962bed8017b95df8d0a3dc2c/soloader-0.6.0/AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c308531dd02f783015ed0db3e7d4037f/core-1.2.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:34:9-35
+	android:label
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:15:9-32
+		REJECTED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:33:9-41
+	android:allowBackup
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:32:9-35
+	android:icon
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:16:9-43
+	tools:replace
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:13:9-38
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:14:9-57
+activity#com.intrack.app.MainActivity
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:17:9-48:20
+	android:launchMode
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:19:13-43
+	android:hardwareAccelerated
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:22:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:23:13-55
+	android:configChanges
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:21:13-163
+	android:theme
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:20:13-47
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:18:13-41
+meta-data#io.flutter.app.android.SplashScreenUntilFirstFrame
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:28:13-30:40
+	android:value
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:30:17-37
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:29:17-82
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:32:17-68
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:33:17-76
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:33:27-74
+intent-filter#action:name:FLUTTER_NOTIFICATION_CLICK+category:name:android.intent.category.DEFAULT
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:35:13-38:29
+action#FLUTTER_NOTIFICATION_CLICK
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:36:17-69
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:36:25-66
+category#android.intent.category.DEFAULT
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:37:17-76
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:37:27-73
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:deeplink.intrack.in+data:pathPrefix:/+data:scheme:intrack
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:39:13-47:29
+action#android.intent.action.VIEW
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:40:17-69
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:40:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:42:27-75
+data
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:43:17-46:45
+	android:host
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:45:21-55
+	android:scheme
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:44:21-45
+	android:pathPrefix
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:46:21-43
+meta-data#flutterEmbedding
+ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:51:9-53:33
+	android:value
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:53:13-30
+	android:name
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml:52:13-44
+uses-sdk
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+MERGED from [:image_gallery_saver] /Users/rahulrawat/intrack-edu/build/image_gallery_saver/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_gallery_saver] /Users/rahulrawat/intrack-edu/build/image_gallery_saver/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /Users/rahulrawat/intrack-edu/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:file_picker] /Users/rahulrawat/intrack-edu/build/file_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/rahulrawat/intrack-edu/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:sqflite] /Users/rahulrawat/intrack-edu/build/sqflite/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/rahulrawat/intrack-edu/build/package_info/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:package_info] /Users/rahulrawat/intrack-edu/build/package_info/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_macos] /Users/rahulrawat/intrack-edu/build/connectivity_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:connectivity_macos] /Users/rahulrawat/intrack-edu/build/connectivity_macos/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:6:5-44
+MERGED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/rahulrawat/intrack-edu/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:webview_flutter] /Users/rahulrawat/intrack-edu/build/webview_flutter/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/rahulrawat/intrack-edu/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:path_provider] /Users/rahulrawat/intrack-edu/build/path_provider/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/rahulrawat/intrack-edu/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:flutter_local_notifications] /Users/rahulrawat/intrack-edu/build/flutter_local_notifications/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/rahulrawat/intrack-edu/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:permission_handler] /Users/rahulrawat/intrack-edu/build/permission_handler/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/rahulrawat/intrack-edu/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:shared_preferences] /Users/rahulrawat/intrack-edu/build/shared_preferences/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:5:5-44
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-google-signin:3.0.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/4e7aac6ee4d6671e8345bc63beb4a0bf/react-native-google-signin-3.0.1-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-google-signin:3.0.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/4e7aac6ee4d6671e8345bc63beb4a0bf/react-native-google-signin-3.0.1-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-background-timer:2.1.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/05221fc26a6e95841b1fc1104884c79d/react-native-background-timer-2.1.1-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-background-timer:2.1.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/05221fc26a6e95841b1fc1104884c79d/react-native-background-timer-2.1.1-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-community-async-storage:1.3.4-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5ce2204c5a4483bd9a9b53db1ba50b01/react-native-community-async-storage-1.3.4-jitsi-4429568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-community-async-storage:1.3.4-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5ce2204c5a4483bd9a9b53db1ba50b01/react-native-community-async-storage-1.3.4-jitsi-4429568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/95110fecf17ce7d855e3b5f0110cc247/react-native-community_netinfo-4.1.5-jitsi-4429568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/95110fecf17ce7d855e3b5f0110cc247/react-native-community_netinfo-4.1.5-jitsi-4429568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-default-preference:1.4.2-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6043f9876c38d4da870833bfc8b17850/react-native-default-preference-1.4.2-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-default-preference:1.4.2-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6043f9876c38d4da870833bfc8b17850/react-native-default-preference-1.4.2-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-immersive:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ef2d6b148630401bdec012f174cb491d/react-native-immersive-2.0.0-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-immersive:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ef2d6b148630401bdec012f174cb491d/react-native-immersive-2.0.0-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/833320509cf3701a9d368a5486fa1160/react-native-keep-awake-4.0.0-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-keep-awake:4.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/833320509cf3701a9d368a5486fa1160/react-native-keep-awake-4.0.0-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-linear-gradient:2.5.6-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7a27a4e3088a7e24f8724a52946370ec/react-native-linear-gradient-2.5.6-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-linear-gradient:2.5.6-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7a27a4e3088a7e24f8724a52946370ec/react-native-linear-gradient-2.5.6-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-sound:0.11.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/154acacb599dd0a9aaa33f34cfe746d4/react-native-sound-0.11.0-jitsi-4429568/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-sound:0.11.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/154acacb599dd0a9aaa33f34cfe746d4/react-native-sound-0.11.0-jitsi-4429568/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.react:react-native-svg:9.7.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0f863fb99e4ba988dfc6e34dcf6d2833/react-native-svg-9.7.1-jitsi-4429568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-svg:9.7.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0f863fb99e4ba988dfc6e34dcf6d2833/react-native-svg-9.7.1-jitsi-4429568/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.react:react-native-webrtc:1.75.3-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1080596499d15d8b0b1b1d7f02c2377f/jetified-react-native-webrtc-1.75.3-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native-webrtc:1.75.3-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1080596499d15d8b0b1b1d7f02c2377f/jetified-react-native-webrtc-1.75.3-jitsi-4429568/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5-jitsi.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f0ea33837f2ae1c9226834c79e2b1bd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2f0ea33837f2ae1c9226834c79e2b1bd/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9ed93210c3c6853b3bbad51b6a4e4d87/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9ed93210c3c6853b3bbad51b6a4e4d87/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d513c711b8f07339c01a694bf542421d/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d513c711b8f07339c01a694bf542421d/play-services-stats-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/117202cca2851c308cf9cd335698b0e5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/117202cca2851c308cf9cd335698b0e5/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f5c48faad3e483f6f24a4c406204294b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f5c48faad3e483f6f24a4c406204294b/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b7b2b1a56b1f952a20ebc6244fb3c316/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.webkit:webkit:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b7b2b1a56b1f952a20ebc6244fb3c316/webkit-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0e10eaa65b355a3f9424fcb782473839/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0e10eaa65b355a3f9424fcb782473839/media-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13337fa17c431a1e70ed023fa24d6873/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13337fa17c431a1e70ed023fa24d6873/firebase-iid-interop-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/82a501bf4208391551e89eb7b684cbbb/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/82a501bf4208391551e89eb7b684cbbb/play-services-auth-api-phone-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ad654d3361cf2a626663093d506708e2/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ad654d3361cf2a626663093d506708e2/play-services-auth-base-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59ea94859b3672a0ed14e895fb9d9b8d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/59ea94859b3672a0ed14e895fb9d9b8d/play-services-tasks-17.0.0/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3351998ed301451b918539713b0f356/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:18.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3351998ed301451b918539713b0f356/firebase-measurement-connector-18.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/64bc6587475c39e9f77e60604098a06f/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/64bc6587475c39e9f77e60604098a06f/fragment-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a4f1e4b67670323cfce3bc89e1c95200/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/a4f1e4b67670323cfce3bc89e1c95200/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d02dce3083d6bf72ef903d7431f75e71/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d02dce3083d6bf72ef903d7431f75e71/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cd2d7c6f32706c2131aa7676365eae30/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cd2d7c6f32706c2131aa7676365eae30/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2ec14717e4df824d6b0bb64f1326a8bc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2ec14717e4df824d6b0bb64f1326a8bc/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ba31575fcf88c048e0a81102713e906b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ba31575fcf88c048e0a81102713e906b/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/340c6dc1043ffb719f7fcc47d7120aae/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/340c6dc1043ffb719f7fcc47d7120aae/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8ca62f3fb1f94fb8d07f5a681cc24c5f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8ca62f3fb1f94fb8d07f5a681cc24c5f/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d6110e6e799c5ea810a14b5274a8beb8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d6110e6e799c5ea810a14b5274a8beb8/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/03cfcdf6101a42f31168ab9c5d579d53/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/03cfcdf6101a42f31168ab9c5d579d53/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c27f1465c614894e779d5a40c6c27d32/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c27f1465c614894e779d5a40c6c27d32/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cc81b06ac9353c07631cdaf87b0aacd3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/cc81b06ac9353c07631cdaf87b0aacd3/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/56901fe9ca638e81b5bdf09f2fcf7c0d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/56901fe9ca638e81b5bdf09f2fcf7c0d/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c308531dd02f783015ed0db3e7d4037f/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c308531dd02f783015ed0db3e7d4037f/core-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/af3f3261368354814788b49e7f1d6170/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/af3f3261368354814788b49e7f1d6170/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1bee58ef02a4ec953d895ca46e69ac6e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1bee58ef02a4ec953d895ca46e69ac6e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c13620144ad409732cabfddd7bcc4c77/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c13620144ad409732cabfddd7bcc4c77/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/990d61a0b44f9658417b622025f345a1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/990d61a0b44f9658417b622025f345a1/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b8331a4d8389d3a260a5c8dac90a130f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/b8331a4d8389d3a260a5c8dac90a130f/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f8e66371d2295fa6d733df15085d151f/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f8e66371d2295fa6d733df15085d151f/lifecycle-viewmodel-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3a04b0f2b9d53e36847a5996b468c4f4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3a04b0f2b9d53e36847a5996b468c4f4/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c31964ec6163b506e615ba67cead438e/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c31964ec6163b506e615ba67cead438e/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fcfe26d4711c1e8a1902e77ea9b004c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fcfe26d4711c1e8a1902e77ea9b004c0/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3f160ec9d7421a4b0580bc6a409962f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f3f160ec9d7421a4b0580bc6a409962f/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1804f3412df59e2039be634626885659/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/1804f3412df59e2039be634626885659/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0082c3e4f37b8fbf73c0b11077f83998/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/0082c3e4f37b8fbf73c0b11077f83998/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3f8e86b89c79b2c21e038c24e5c4658f/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.jakewharton.timber:timber:4.7.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/3f8e86b89c79b2c21e038c24e5c4658f/jetified-timber-4.7.1/AndroidManifest.xml:5:5-43
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d30d9e08bc47cb60404f4043cedf0e0c/jetified-duktape-android-1.3.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.squareup.duktape:duktape-android:1.3.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d30d9e08bc47cb60404f4043cedf0e0c/jetified-duktape-android-1.3.0/AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook:hermes:0.2.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/bffa3ec107887102f581071b44a385a4/hermes-0.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook:hermes:0.2.1] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/bffa3ec107887102f581071b44a385a4/hermes-0.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8cab12cf7e4fce0626b957c46401f4bc/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8cab12cf7e4fce0626b957c46401f4bc/fresco-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f908ba454ea2eccba2cf14fba6e1eca9/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/f908ba454ea2eccba2cf14fba6e1eca9/imagepipeline-okhttp3-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ab7a1b89cef52d824171e60c95f33e2c/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/ab7a1b89cef52d824171e60c95f33e2c/drawee-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13a16c1954b9ef888f349a322c982d36/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/13a16c1954b9ef888f349a322c982d36/nativeimagefilters-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7c726dbadeac69044112c00a39fc05a7/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/7c726dbadeac69044112c00a39fc05a7/imagepipeline-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/39306c6983ac50433389f68cffa872b1/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/39306c6983ac50433389f68cffa872b1/nativeimagetranscoder-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d11bd74beb5b6980d6b8163ce7ae6d6b/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d11bd74beb5b6980d6b8163ce7ae6d6b/imagepipeline-base-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/20a4f86c962bed8017b95df8d0a3dc2c/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/20a4f86c962bed8017b95df8d0a3dc2c/soloader-0.6.0/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6f11d3284e3a24232db32d36fa7cfbd3/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/6f11d3284e3a24232db32d36fa7cfbd3/jetified-fbcore-2.0.0/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rahulrawat/intrack-edu/android/app/src/main/AndroidManifest.xml
+activity#com.gunschu.jitsi_meet.JitsiMeetPluginActivity
+ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:8:9-15:20
+	android:launchMode
+		ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:11:13-44
+	android:windowSoftInputMode
+		ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:14:13-55
+	android:supportsPictureInPicture
+		ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:13:13-52
+	android:resizeableActivity
+		ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:12:13-46
+	android:configChanges
+		ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:10:13-115
+	android:name
+		ADDED from [:jitsi_meet] /Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:5-79
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:9:5-79
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:9:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/95110fecf17ce7d855e3b5f0110cc247/react-native-community_netinfo-4.1.5-jitsi-4429568/AndroidManifest.xml:9:5-79
+MERGED from [com.facebook.react:react-native-community_netinfo:4.1.5-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/95110fecf17ce7d855e3b5f0110cc247/react-native-community_netinfo-4.1.5-jitsi-4429568/AndroidManifest.xml:9:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:8:5-76
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:18:5-76
+MERGED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:18:5-76
+	android:name
+		ADDED from [:connectivity] /Users/rahulrawat/intrack-edu/build/connectivity/intermediates/library_manifest/release/AndroidManifest.xml:8:22-73
+uses-permission#android.permission.REQUEST_INSTALL_PACKAGES
+ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:8:5-83
+	android:name
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:8:22-80
+provider#androidx.core.content.FileProvider
+ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:12:9-21:20
+	android:grantUriPermissions
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:15:13-37
+	tools:replace
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:17:13-48
+	android:name
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:13:13-62
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:18:13-20:53
+	android:resource
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:20:17-50
+	android:name
+		ADDED from [:open_file] /Users/rahulrawat/intrack-edu/build/open_file/intermediates/library_manifest/release/AndroidManifest.xml:19:17-67
+service#io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService
+ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:9-12:19
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:8:18-101
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:9:13-11:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:17-78
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:10:25-75
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:9-17:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:13:18-89
+meta-data#com.google.firebase.components:io.flutter.plugins.firebasemessaging.FlutterFirebaseAppRegistrar
+ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:14:13-16:85
+	android:value
+		ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:16:17-82
+	android:name
+		ADDED from [:firebase_messaging] /Users/rahulrawat/intrack-edu/build/firebase_messaging/intermediates/library_manifest/release/AndroidManifest.xml:15:17-127
+activity#io.flutter.plugins.urllauncher.WebViewActivity
+ADDED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:8:9-11:74
+	android:exported
+		ADDED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:10:13-37
+	android:theme
+		ADDED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:11:13-71
+	android:name
+		ADDED from [:url_launcher] /Users/rahulrawat/intrack-edu/build/url_launcher/intermediates/library_manifest/release/AndroidManifest.xml:9:13-74
+provider#io.flutter.plugins.imagepicker.ImagePickerFileProvider
+ADDED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:11:9-19:20
+	android:grantUriPermissions
+		ADDED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:15:13-47
+	android:authorities
+		ADDED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:13:13-74
+	android:exported
+		ADDED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from [:image_picker] /Users/rahulrawat/intrack-edu/build/image_picker/intermediates/library_manifest/release/AndroidManifest.xml:12:13-82
+uses-permission#android.permission.BLUETOOTH
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:10:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:10:22-65
+uses-permission#android.permission.CAMERA
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.MANAGE_OWN_CALLS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:13:5-75
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:13:22-72
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:14:5-80
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:14:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:15:5-71
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:15:22-68
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:16:22-75
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:17:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.1.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/05221fc26a6e95841b1fc1104884c79d/react-native-background-timer-2.1.1-jitsi-4429568/AndroidManifest.xml:11:5-68
+MERGED from [com.facebook.react:react-native-background-timer:2.1.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/05221fc26a6e95841b1fc1104884c79d/react-native-background-timer-2.1.1-jitsi-4429568/AndroidManifest.xml:11:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:19:5-77
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:19:22-74
+uses-feature#0x00020000
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:21:5-23:35
+	android:glEsVersion
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:22:9-41
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:23:9-32
+uses-feature#android.hardware.camera
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:25:9-47
+uses-feature#android.hardware.camera.autofocus
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:28:9-57
+activity#org.jitsi.meet.sdk.JitsiMeetActivity
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:35:9-42:20
+	android:launchMode
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:38:13-44
+	android:windowSoftInputMode
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:41:13-55
+	android:supportsPictureInPicture
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:40:13-52
+	android:resizeableActivity
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:39:13-46
+	android:configChanges
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:37:13-115
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:36:13-64
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:43:9-86
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:43:19-83
+service#org.jitsi.meet.sdk.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:45:9-51:19
+	android:permission
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:47:13-84
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:46:13-64
+intent-filter#action:name:android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:48:13-50:29
+action#android.telecom.ConnectionService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:49:17-76
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:49:25-73
+service#org.jitsi.meet.sdk.JitsiMeetOngoingConferenceService
+ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:52:9-88
+	android:name
+		ADDED from [org.jitsi.react:jitsi-meet-sdk:2.9.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/AndroidManifest.xml:52:18-85
+provider#com.reactnativecommunity.webview.RNCWebViewFileProvider
+ADDED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:14:13-64
+	android:exported
+		ADDED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.facebook.react:react-native-webview:7.4.1-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/22fe23cecb50eaab5fbcfbb24d6352d3/react-native-webview-7.4.1-jitsi-4429568/AndroidManifest.xml:13:13-83
+uses-permission#android.permission.WRITE_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:11:5-73
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:11:22-70
+uses-permission#android.permission.READ_CALENDAR
+ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:12:5-72
+	android:name
+		ADDED from [com.facebook.react:react-native-calendar-events:2.0.0-jitsi-4429568] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/408561368d821b6626036e73c6ec72a3/react-native-calendar-events-2.0.0-jitsi-4429568/AndroidManifest.xml:12:22-69
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/9e9b84fc1a471414bed2a116a22a102f/jetified-firebase-messaging-20.0.0/AndroidManifest.xml:29:13-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:20.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/36802d2c8056e1ba113d99c6d327348d/firebase-iid-20.0.0/AndroidManifest.xml:42:25-78
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/2914f612fbfb9fcafc6ed86d181cca20/firebase-common-19.0.0/AndroidManifest.xml:13:13-77
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/8bc8db731098fb2d192c2f73d71424ea/play-services-auth-17.0.0/AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/583d4203ac2589c42256205f6528e517/play-services-base-17.0.0/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] /Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/27858c252e60ebe0fd7df658e3c7ed20/jetified-play-services-basement-17.0.0/AndroidManifest.xml:24:13-58

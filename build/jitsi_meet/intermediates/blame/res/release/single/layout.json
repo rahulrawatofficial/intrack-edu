@@ -1,0 +1,202 @@
+[
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_lines_media.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_tooltip.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_tooltip.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/redbox_view.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/res/layout/redbox_view.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_cascading_menu_item_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_media_custom.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_search_view.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/fps_view.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/res/layout/fps_view.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5bae5ccd976fa28e5292ad9bd0076532/core-1.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_screen_simple.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/redbox_item_title.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/res/layout/redbox_item_title.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_media_action.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_big_media.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/redbox_item_frame.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/res/layout/redbox_item_frame.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/custom_dialog.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5bae5ccd976fa28e5292ad9bd0076532/core-1.1.0/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_big_media_custom.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/dev_loading_view.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/d88578bcdb6b94c920425fc6ace67d44/jetified-react-native-0.61.5-jitsi.1/res/layout/dev_loading_view.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/activity_jitsi_meet.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/250dc6be99abeac58b95fa9fc12db849/jitsi-meet-sdk-2.9.0/res/layout/activity_jitsi_meet.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_media.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/c1c31f48eccc05b52f97bb86e443a900/media-1.0.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/90c5409e5596b7a0d0bc1aafe17986ed/appcompat-1.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/jitsi_meet/intermediates/res/merged/release/layout/notification_template_part_time.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/5bae5ccd976fa28e5292ad9bd0076532/core-1.1.0/res/layout/notification_template_part_time.xml"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/file_picker/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fd60c5940d304fe4582801064a7410cc/appcompat-1.0.0-beta01/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/file_picker/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fd60c5940d304fe4582801064a7410cc/appcompat-1.0.0-beta01/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/file_picker/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fd60c5940d304fe4582801064a7410cc/appcompat-1.0.0-beta01/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/file_picker/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fd60c5940d304fe4582801064a7410cc/appcompat-1.0.0-beta01/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/file_picker/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/da4d7260fdc40fbea022a0fc84d32258/core-1.0.0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/rahulrawat/intrack-edu/build/file_picker/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/rahulrawat/.gradle/caches/transforms-2/files-2.1/fd60c5940d304fe4582801064a7410cc/appcompat-1.0.0-beta01/res/drawable-v21/abc_edit_text_material.xml"
+    }
+]
